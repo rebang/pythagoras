@@ -1,4 +1,7 @@
 # pythagoras
+
+simply add "alias pyt='/path-to-pytagoras'" to the bottom of your .bashrc/.zshrc
+
 command line tool for right triangle calculations
 
 usage: pyt a b c
