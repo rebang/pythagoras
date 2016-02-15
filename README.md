@@ -1,9 +1,12 @@
 # pythagoras
+
+command line tool for right triangle calculations
+
 compile with "gcc -g pytagoras.c -o nameofnewfile -lm" 
 
 then simply add "alias pyt='/path-to-nameofnewfile'" to the bottom of your .bashrc/.zshrc
 
-command line tool for right triangle calculations
+
 
 usage: pyt a b c
 
