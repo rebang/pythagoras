@@ -1,5 +1,5 @@
 # pythagoras
-compile with "gcc -g3 pytagoras.c -o nameofnewfile -lm" 
+compile with "gcc -g pytagoras.c -o nameofnewfile -lm" 
 
 then simply add "alias pyt='/path-to-nameofnewfile'" to the bottom of your .bashrc/.zshrc
 
